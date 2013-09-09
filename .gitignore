@@ -1,0 +1,31 @@
+# Fichier bases TYPO3
+/typo3_src
+/typo3
+/t3lib
+/index.php
+/uploads/*
+/typo3temp/*
+/_.htaccess
+/clear.git
+/typo3conf/ENABLE_INSTALL_TOOL
+/typo3conf/LocalConfiguration.php
+/typo3conf/l10n/*
+
+# Fichiers bluehost
+/php.ini
+/.htaccess
+/error_log
+
+# Fileadmin TYPO3
+/fileadmin/_temp_/*
+/fileadmin/user_upload/*
+/fileadmin/documents/*
+
+# Cache TYPO3
+/typo3conf/temp_CACHED*
+/typo3conf/deprecation_*
+/fileadmin/_processed_/
+/typo3conf/realurl_autoconf.php
+
+# Extensions dev
+/typo3conf/ext/extension_builder/
